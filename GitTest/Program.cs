@@ -10,6 +10,7 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
+            int z = 1488;
             for(int i  = 1; i < 11; i++)
             {
                 for(int j = 1; j < 11; j++)
